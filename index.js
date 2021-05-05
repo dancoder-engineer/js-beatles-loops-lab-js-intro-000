@@ -10,8 +10,13 @@ function theBeatlesPlay(member,instrument) {
 
 
 
-function johnLennonFacts(num) {
-  
+function johnLennonFacts(array) {
+
+  var i = array.length - 1
+  var newarray = []
+  while (i >= 0) {
+    newarray[i] = array[i] + "!!!"
+      }
   
   
 }
