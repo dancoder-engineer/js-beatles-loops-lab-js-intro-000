@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
   var newarray = []
   var i = 0
   do { 
-    newarray[i] = "I love theBeatles!"
+    newarray[i] = "I love the Beatles!"
     i++
     num++
     }while(num < 15)
