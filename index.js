@@ -5,5 +5,5 @@ function theBeatlesPlay(member,instrument) {
     sentences[i] = `${member} plays ${instrument}`
   
   }
-  
+  return sentences
 }
