@@ -10,3 +10,8 @@ function theBeatlesPlay(member,instrument) {
 
 
 
+function johnLennonFacts(num) {
+  
+  
+  
+}
