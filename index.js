@@ -19,7 +19,7 @@ function johnLennonFacts(array) {
     i--
       }
   
-  
+  return newarray
 }
 
 
