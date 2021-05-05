@@ -24,9 +24,9 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(num) {
   var newarray = []
-  
+  var i = 0
   do { 
-    
+    newarray[i] = 
     
   
 }while(num < 15)
