@@ -22,7 +22,7 @@ function johnLennonFacts(array) {
 }
 
 
-console.log( expect(johnLennonFacts([
+console.log( (johnLennonFacts([
         "He was the last Beatle to learn to drive",
         "He was never a vegetarian",
         "He was a choir boy and boy scout",
